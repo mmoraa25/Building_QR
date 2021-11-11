@@ -16,7 +16,7 @@ The mobile application can be downloaded from the following website: https://git
 -	QR recognition
 -	Registry and Cadastral Information of the home
 
-###  USER  INTERFACE  
+###  User interface  
 
 
 
@@ -25,11 +25,11 @@ The mobile application can be downloaded from the following website: https://git
 
 
 
-###  TRADITIONAL WAY
+###  Traditional way
 
 When it comes to collecting information on lots, they must do it manually, opening the possibility of errors in the subsequent registration of such lots, for example, when they are registered as available lots when in fact they do have owners, which causes conflicts with the Land Registry department; or when two cadastral codes are assigned for a single property.
 
-###  QR RECOGNITION
+###  QR Recognition 
 
 The representation of the QR code in the homes is captured by the application , where each property has a unique QR code assigned to a part of the property that is easily accessible to the cadastre staff, so that they can scan the QR code from their cell phones, using an application that activates them and shows them a 3D model of the property with all the information they need to know. 
 
@@ -50,6 +50,7 @@ The participants were asked about the visual information content observed in the
 
 
 
-# Autores:
+###  Autores:
 Joe Llerena  jllerena@ups.edu.ec
+
 Maria Mora mmoraa3@est.ups.edu.ec
