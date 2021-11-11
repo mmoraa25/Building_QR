@@ -19,8 +19,7 @@ By implementing the mobile application, time will be saved for the collaborators
 ###  User interface  
 
 
-https://i.postimg.cc/cHZJCxjr/principal-QR.jpg https://i.postimg.cc/V6RkCyQ4/vivienda1.jpg
-https://i.postimg.cc/8cXkZhC6/vivienda2.jpg https://i.postimg.cc/QxVdHn6k/vivienda3.jpg
+[![principal-QR.jpg](https://i.postimg.cc/cHZJCxjr/principal-QR.jpg)](https://postimg.cc/KKqbs2m2)
 
 
 
