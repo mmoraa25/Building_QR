@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Edificacion_prueba3" size="6.000000 5.940790" />
+    <ImageTarget name="Edificacion_prueba2" size="6.000000 6.039735" />
+    <ImageTarget name="Edificacion_prueba1" size="6.000000 5.899665" />
+  </Tracking>
+</QCARConfig>
