@@ -11,12 +11,12 @@ This mobile application as an informative and interactive tool in the context of
 By implementing the mobile application, time will be saved for the collaborators of the three departments, since the information gathering process could be done in a faster way, by visualizing the exact information of the properties. In addition, errors and conflicts between the departments that handle this type of information are avoided.
 The mobile application can be downloaded from the following website: https://github.com/mmoraa25/Building_QR.git
 
-# Features
+### Features
 
 -	QR recognition
 -	Registry and Cadastral Information of the home
 
-# USER  INTERFACE  
+###  USER  INTERFACE  
 
 
 
@@ -25,11 +25,11 @@ The mobile application can be downloaded from the following website: https://git
 
 
 
-# TRADITIONAL WAY
+###  TRADITIONAL WAY
 
 When it comes to collecting information on lots, they must do it manually, opening the possibility of errors in the subsequent registration of such lots, for example, when they are registered as available lots when in fact they do have owners, which causes conflicts with the Land Registry department; or when two cadastral codes are assigned for a single property.
 
-# QR RECOGNITION
+###  QR RECOGNITION
 
 The representation of the QR code in the homes is captured by the application , where each property has a unique QR code assigned to a part of the property that is easily accessible to the cadastre staff, so that they can scan the QR code from their cell phones, using an application that activates them and shows them a 3D model of the property with all the information they need to know. 
 
