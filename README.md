@@ -10,3 +10,8 @@ This mobile application as an informative and interactive tool in the context of
 
 By implementing the mobile application, time will be saved for the collaborators of the three departments, since the information gathering process could be done in a faster way, by visualizing the exact information of the properties. In addition, errors and conflicts between the departments that handle this type of information are avoided.
 The mobile application can be downloaded from the following website: https://github.com/mmoraa25/Building_QR.git
+
+# Features
+
+-	QR recognition
+-	Registry and Cadastral Information of the home
