@@ -61,4 +61,4 @@ The participants were asked about the visual information content observed in the
 
 ### Autores:
 - **Joe Llerena  jllerena@ups.edu.ec**
-- **Maria Mora mmoraa3@est.ups.edu.ec**
+- **Maria Mora mmoraa3@est.ups.edu.ec** 
