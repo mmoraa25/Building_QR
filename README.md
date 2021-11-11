@@ -39,6 +39,15 @@ When it comes to collecting information on lots, they must do it manually, openi
 </p>
 
 ###  QR Recognition 
+
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/cf8ff0f80df006af6508a19e438d3710fc1e0e32/imagenes/qr.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/cf8ff0f80df006af6508a19e438d3710fc1e0e32/imagenes/qr.jpg" alt="" style="max-width:100%;">
+  </a>
+</p>
+
+
 <p align="justify">
 The representation of the QR code in the homes is captured by the application , where each property has a unique QR code assigned to a part of the property that is easily accessible to the cadastre staff, so that they can scan the QR code from their cell phones, using an application that activates them and shows them a 3D model of the property with all the information they need to know. </p>
 <p align="justify">
