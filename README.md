@@ -45,8 +45,8 @@ When it comes to collecting information on lots, they must do it manually, openi
 
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/cf8ff0f80df006af6508a19e438d3710fc1e0e32/imagenes/qr.jpg">
-    <img src="https://github.com/mmoraa25/Building_QR/blob/cf8ff0f80df006af6508a19e438d3710fc1e0e32/imagenes/qr.jpg" alt="" style="max-width:50%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/273cdeb5771e6ab152d3aff77b163000e9ccf018/imagenes/qr-1.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/273cdeb5771e6ab152d3aff77b163000e9ccf018/imagenes/qr-1.jpg" alt="" style="max-width:50%;">
   </a>
 </p>
 
