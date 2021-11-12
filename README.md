@@ -13,12 +13,12 @@ By implementing the mobile application, time will be saved for the collaborators
 <p align="justify">
 The mobile application can be downloaded from the following website: https://github.com/mmoraa25/Building_QR.git</p> 
 
-### Features
+<h2 align="justify">Features</h2> 
 
 -	QR recognition
 -	Registry and Cadastral Information of the home
 
-###  User interface  
+<h2 align="justify">User interface</h2>   
 
 
 
@@ -27,7 +27,7 @@ The mobile application can be downloaded from the following website: https://git
 
 
 
-###  Traditional way
+<h2 align="justify">Traditional way</h2>   
 <p align="justify">
 When it comes to collecting information on lots, they must do it manually, opening the possibility of errors in the subsequent registration of such lots, for example, when they are registered as available lots when in fact they do have owners, which causes conflicts with the Land Registry department; or when two cadastral codes are assigned for a single property.</p>
 
@@ -38,7 +38,7 @@ When it comes to collecting information on lots, they must do it manually, openi
   </a>
 </p>
 
-###  QR Recognition 
+<h2 align="justify">QR Recognition </h2>  
 
 
 <p align="center">
@@ -84,6 +84,7 @@ The participants were asked about the visual information content observed in the
   </a>
 </p>
 
-### Autores:
+<h2 align="justify">Autores: </h2> 
+
 - **Joe Llerena  jllerena@ups.edu.ec**
 - **Maria Mora mmoraa3@est.ups.edu.ec** 
