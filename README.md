@@ -23,10 +23,6 @@ The mobile application can be downloaded from the following website: https://git
 
 
 
-
-
-
-
 <h2 align="justify">Traditional way</h2>   
 <p align="justify">
 When it comes to collecting information on lots, they must do it manually, opening the possibility of errors in the subsequent registration of such lots, for example, when they are registered as available lots when in fact they do have owners, which causes conflicts with the Land Registry department; or when two cadastral codes are assigned for a single property.</p>
