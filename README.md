@@ -60,8 +60,8 @@ In a survey conducted, the participants were asked if they would recommend the u
 
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/9571730ac83655340c3989f477686005e09383f1/imagenes/grafica1.jpg">
-    <img src="https://github.com/mmoraa25/Building_QR/blob/9571730ac83655340c3989f477686005e09383f1/imagenes/grafica1.jpg" alt="" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/e3f07706835c815871c08a7c3cbd33226ec24e05/imagenes/grafica1-1.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/e3f07706835c815871c08a7c3cbd33226ec24e05/imagenes/grafica1-1.jpg" alt="" style="max-width:100%;">
   </a>
 </p>
 
@@ -72,8 +72,8 @@ Respondents were also asked if they agree that technologies such as augmented re
 
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/e249208197733315ee01fea906309a33d00e5220/imagenes/grafica2.jpg">
-    <img src="https://github.com/mmoraa25/Building_QR/blob/e249208197733315ee01fea906309a33d00e5220/imagenes/grafica2.jpg" alt="" style="max-width:50%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/9d1c588513e4a3145bc5814cddbda514a61c5275/imagenes/grafica2-1.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/9d1c588513e4a3145bc5814cddbda514a61c5275/imagenes/grafica2-1.jpg" alt="" style="max-width:50%;">
   </a>
 </p>
 
@@ -82,8 +82,8 @@ Respondents were also asked if they agree that technologies such as augmented re
 The participants were asked about the visual information content observed in the application, specifically, do you think this information is important for urban information management? 58% of the participants thought it was important for the management of urban information, 58% of the participants thought it was “very important”, 32% thought it was "important", 8% thought it was "something important", 1% thought it was "less important" and 1% thought it was "nothing important". This shows the level of importance that the population gives to the cadastral information of the dwellings. A total of 90% believe that this information is important.</p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/13d73434df0050ef9b767370cfea957b8d45259b/imagenes/grafica3.jpg">
-    <img src="https://github.com/mmoraa25/Building_QR/blob/13d73434df0050ef9b767370cfea957b8d45259b/imagenes/grafica3.jpg" alt="" style="max-width:50%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/089c2705901f0edc3a48701f7bfa8a61f4e96a0e/imagenes/grafica3-1.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/089c2705901f0edc3a48701f7bfa8a61f4e96a0e/imagenes/grafica3-1.jpg" alt="" style="max-width:50%;">
   </a>
 </p>
 
