@@ -75,12 +75,14 @@ Respondents were also asked if they agree that technologies such as augmented re
 </p>
 
 
-
-
 <p align="justify">
 The participants were asked about the visual information content observed in the application, specifically, do you think this information is important for urban information management? 58% of the participants thought it was important for the management of urban information, 58% of the participants thought it was “very important”, 32% thought it was "important", 8% thought it was "something important", 1% thought it was "less important" and 1% thought it was "nothing important". This shows the level of importance that the population gives to the cadastral information of the dwellings. A total of 90% believe that this information is important.</p>
 
-
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/13d73434df0050ef9b767370cfea957b8d45259b/imagenes/grafica3.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/13d73434df0050ef9b767370cfea957b8d45259b/imagenes/grafica3.jpg" alt="" style="max-width:50%;">
+  </a>
+</p>
 
 ### Autores:
 - **Joe Llerena  jllerena@ups.edu.ec**
