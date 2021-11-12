@@ -68,6 +68,13 @@ In a survey conducted, the participants were asked if they would recommend the u
 Respondents were also asked if they agree that technologies such as augmented reality, can help in the management of the digitization of cadastral information of dwellings, 66% of respondents indicated that they were “strongly agree”, 27% of indicating to be “agree”, 6% to indicate “neither agree nor disagree” and 1% of being “in disagreement”. This shows a total acceptance rate of 93% of the population. </p>
 
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/e249208197733315ee01fea906309a33d00e5220/imagenes/grafica2.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/e249208197733315ee01fea906309a33d00e5220/imagenes/grafica2.jpg" alt="" style="max-width:50%;">
+  </a>
+</p>
+
+
 
 
 <p align="justify">
