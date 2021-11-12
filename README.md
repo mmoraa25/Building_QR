@@ -21,8 +21,11 @@ The mobile application can be downloaded from the following website: https://git
 <h2 align="justify">User interface</h2>   
 
 <p float= "left">
-  <img src="https://github.com/mmoraa25/Building_QR/blob/8066168039b91107516e4aeb3431c2f6169bbe3c/imagenes/vivienda1.jpg" width:"100">
-  <img src="https://github.com/mmoraa25/Building_QR/blob/8066168039b91107516e4aeb3431c2f6169bbe3c/imagenes/vivienda2.jpg" width: "100">
+  <img src="https://github.com/mmoraa25/Building_QR/blob/fa7bce530e306eb38d701aa555770f09d33efd28/imagenes/principalQR2.jpg" width:"100">
+  <img src="https://github.com/mmoraa25/Building_QR/blob/fa7bce530e306eb38d701aa555770f09d33efd28/imagenes/principalQR2.jpg" width: "100">
+   <img src="https://github.com/mmoraa25/Building_QR/blob/fa7bce530e306eb38d701aa555770f09d33efd28/imagenes/principalQR2.jpg" width:"100">
+  <img src="https://github.com/mmoraa25/Building_QR/blob/fa7bce530e306eb38d701aa555770f09d33efd28/imagenes/principalQR2.jpg" width: "100">
+  
 </p>
   
 
