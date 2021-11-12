@@ -56,6 +56,13 @@ The user interacts with the application through a mobile device. Within the appl
 In a survey conducted, the participants were asked if they would recommend the use of the Building QR application for the management of urban cadastral information, obtaining that 95% would say "yes, I would recommend it" and 5% responded that "I would not recommend it", which shows the percentage of satisfaction with the prototype in its first versión.</p>
 
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmoraa25/Building_QR/blob/9571730ac83655340c3989f477686005e09383f1/imagenes/grafica1.jpg">
+    <img src="https://github.com/mmoraa25/Building_QR/blob/9571730ac83655340c3989f477686005e09383f1/imagenes/grafica1.jpg" alt="" style="max-width:100%;">
+  </a>
+</p>
+
+
 
 <p align="justify">
 Respondents were also asked if they agree that technologies such as augmented reality, can help in the management of the digitization of cadastral information of dwellings, 66% of respondents indicated that they were “strongly agree”, 27% of indicating to be “agree”, 6% to indicate “neither agree nor disagree” and 1% of being “in disagreement”. This shows a total acceptance rate of 93% of the population. </p>
