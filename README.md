@@ -14,6 +14,9 @@ By implementing the mobile application, time will be saved for the collaborators
 The mobile application can be downloaded from the following website: https://github.com/mmoraa25/Building_QR.git</p> 
 <p align="justify">
  The operation of the application can be reviewed in the following link: https://www.youtube.com/watch?v=DFU925rruHI</p> 
+ <p align="justify">
+ Link to download apk: https://drive.google.com/drive/folders/1wZ6HyFpPO1fBqqA9ew56WPK9NqMRCB-q?usp=sharing</p>
+ 
 
 <h2 align="justify">Features</h2> 
 
