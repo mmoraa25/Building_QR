@@ -92,7 +92,7 @@ The participants were asked about the visual information content observed in the
   </a>
 </p>
 
-<h2 align="justify">Autores: </h2> 
+<h2 align="justify">Authors: </h2> 
 
 - **Joe Llerena  jllerena@ups.edu.ec**
 - **Maria Mora mmoraa3@est.ups.edu.ec** 
